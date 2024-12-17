@@ -1,6 +1,7 @@
 # GIVA Jewelry Homepage Clone
 
 Welcome to the GIVA Jewelry Homepage Clone repository! This project is a faithful reproduction of the GIVA Jewelry website's homepage, created using HTML and CSS. The aim of this clone is to provide a clean and modern interface that showcases beautiful jewelry while adhering to web development best practices. This README file includes detailed information about the project, its features, setup instructions, usage guidelines, and contribution processes.
+Link :- https://giva.netlify.app/
 
 ## Table of Contents
 
